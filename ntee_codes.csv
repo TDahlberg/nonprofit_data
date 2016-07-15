@@ -20,7 +20,7 @@ A34,Radio,arts
 A40,Visual Arts,arts
 A50,Museums,arts
 A51,Art Museums,arts
-A52,Children�۪s Museums,arts
+A52,Children‰Ûªs Museums,arts
 A54,History Museums,arts
 A56,Natural History & Natural Science Museums,arts
 A57,Science & Technology Museums,arts
@@ -184,7 +184,7 @@ G61,Asthma,diseases
 G70,Digestive Diseases & Disorders,diseases
 G80,Specifically Named Diseases,diseases
 G81,AIDS,diseases
-G83,Alzheimer�۪s Disease,diseases
+G83,Alzheimer's Disease,diseases
 G84,Autism,diseases
 G90,Medical Disciplines,diseases
 G92,Biomedicine & Bioengineering ,diseases
@@ -218,7 +218,7 @@ H61,Asthma Research,allergy_disease_research
 H70,Digestive Diseases & Disorders Research,allergy_disease_research
 H80,Specifically Named Diseases Research,allergy_disease_research
 H81,AIDS Research,allergy_disease_research
-H83,Alzheimer�۪s Disease Research,allergy_disease_research
+H83,Alzheimer‰Ûªs Disease Research,allergy_disease_research
 H84,Autism Research,allergy_disease_research
 H90,Medical Disciplines Research,allergy_disease_research
 H92,Biomedicine & Bioengineering Research,allergy_disease_research
@@ -295,7 +295,7 @@ L12,Fund Raising & Fund Distribution ,housing_shelter
 L19,Support NEC,housing_shelter
 L20,Housing Development,housing_shelter
 L21,Low-Income & Subsidized Rental Housing,housing_shelter
-L22,Senior Citizens�۪ Housing & Retirement Communities,housing_shelter
+L22,Senior Citizens‰Ûª Housing & Retirement Communities,housing_shelter
 L24,Independent Housing for People with Disabilities,housing_shelter
 L25,Housing Rehabilitation,housing_shelter
 L30,Housing Search Assistance,housing_shelter
@@ -387,7 +387,7 @@ P21,American Red Cross,human_services
 P22,Urban League,human_services
 P24,Salvation Army,human_services
 P26,Volunteers of America,human_services
-P27,Young Men�۪s or Women�۪s Associations,human_services
+P27,Young Men‰Ûªs or Women‰Ûªs Associations,human_services
 P28,Neighborhood Centers,human_services
 P29,Thrift Shops,human_services
 P30,Children & Youth Services,human_services
@@ -406,8 +406,8 @@ P51,Financial Counseling,human_services
 P52,Transportation Assistance,human_services
 P58,Gift Distribution,human_services
 P60,Emergency Assistance,human_services
-P61,Travelers�۪ Aid,human_services
-P62,Victims�۪ Services,human_services
+P61,Travelers‰Ûª Aid,human_services
+P62,Victims‰Ûª Services,human_services
 P70,Residential Care & Adult Day Programs,human_services
 P71,Adult Day Care,human_services
 P73,Group Homes,human_services
@@ -456,11 +456,11 @@ R12,Fund Raising & Fund Distribution ,civil_rights
 R19,Support NEC,civil_rights
 R20,Civil Rights,civil_rights
 R22,Minority Rights,civil_rights
-R23,Disabled Persons�۪ Rights,civil_rights
-R24,Women�۪s Rights,civil_rights
-R25,Seniors�۪ Rights,civil_rights
+R23,Disabled Persons‰Ûª Rights,civil_rights
+R24,Women‰Ûªs Rights,civil_rights
+R25,Seniors‰Ûª Rights,civil_rights
 R26,Lesbian and Gay Rights,civil_rights
-R28,Children�۪s Rights,civil_rights
+R28,Children‰Ûªs Rights,civil_rights
 R30,Intergroup & Race Relations,civil_rights
 R40,Voter Education & Registration,civil_rights
 R60,Civil Liberties,civil_rights
@@ -489,8 +489,8 @@ S46,Boards of Trade,community_capacity_bldg
 S47,Real Estate Associations,community_capacity_bldg
 S50,Nonprofit Management,community_capacity_bldg
 S80,Community Service Clubs,community_capacity_bldg
-S81,Women�۪s Service Clubs,community_capacity_bldg
-S82,Men�۪s Service Clubs,community_capacity_bldg
+S81,Women‰Ûªs Service Clubs,community_capacity_bldg
+S82,Men‰Ûªs Service Clubs,community_capacity_bldg
 S99,Community Improvement & Capacity Building NEC,community_capacity_bldg
 T01,Alliances & Advocacy ,philanthropy
 T02,Management & Technical Assistance ,philanthropy
@@ -545,7 +545,7 @@ V25,Population Studies,social_science
 V26,Law & Jurisprudence,social_science
 V30,Interdisciplinary Research,social_science
 V31,Black Studies,social_science
-V32,Women�۪s Studies,social_science
+V32,Women‰Ûªs Studies,social_science
 V33,Ethnic Studies,social_science
 V34,Urban Studies,social_science
 V35,International Studies,social_science
@@ -562,7 +562,7 @@ W19,Support NEC,public_social_benefit
 W20,Government & Public Administration,public_social_benefit
 W22,Public Finance,public_social_benefit
 W24,Citizen Participation,public_social_benefit
-W30,Military & Veterans�۪ Organizations,public_social_benefit
+W30,Military & Veterans‰Ûª Organizations,public_social_benefit
 W40,Public Transportation Systems,public_social_benefit
 W50,Telecommunications,public_social_benefit
 W60,Financial Institutions,public_social_benefit
@@ -603,7 +603,7 @@ Y20,Insurance Providers,mutual_member_benefit
 Y22,Local Benevolent Life Insurance Associations,mutual_member_benefit
 Y23,Mutual Insurance Companies & Associations,mutual_member_benefit
 Y24,Supplemental Unemployment Compensation,mutual_member_benefit
-Y25,State-Sponsored Worker�۪s Compensation Reinsurance Organizations,mutual_member_benefit
+Y25,State-Sponsored Worker‰Ûªs Compensation Reinsurance Organizations,mutual_member_benefit
 Y30,Pension & Retirement Funds,mutual_member_benefit
 Y33,Teachers Retirement Fund Associations,mutual_member_benefit
 Y34,Employee Funded Pension Trusts,mutual_member_benefit
