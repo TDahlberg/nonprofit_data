@@ -1,3 +1,4 @@
+# WIKI --> https://github.com/TDahlberg/nonprofit_data/wiki
 # NTEE Codes
 Downloaded from [http://nccs.urban.org/classification/ntee.cfm](http://nccs.urban.org/classification/ntee.cfm)
 
