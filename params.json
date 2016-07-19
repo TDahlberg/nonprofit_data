@@ -1,0 +1,6 @@
+{
+  "name": "US Nonprofit Data",
+  "tagline": "All 1.5 million tax-exempt orgs",
+  "body": "### Nonprofit Data\r\nThis repository contains a 4-part .ZIP that unzips into a 300mb CSV file. This file contains records for every single IRS tax-exempt organization (Nonprofit) in the United States. This data comes straight from the IRS. \r\n\r\n### Project Wiki\r\nFor all field definitions, metadata, and possible values for every single column visit the [project wiki](https://github.com/TDahlberg/nonprofit_data/wiki).\r\n\r\n### Creating pages manually\r\nTo get this data, simply download the .ZIP file, and unzip the file that ends in \".001\". This should unzip all four folders and create an extremely large CSV file. This will be much too large to use in Excel. Try using R, Python, or SQL.\r\n\r\n### Authors and Contributors\r\nContact me (@geotyler, same on Twitter) if you have any questions.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
