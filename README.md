@@ -3,12 +3,12 @@ Downloaded from [http://nccs.urban.org/classification/ntee.cfm](http://nccs.urba
 
 This repository contains two sets of files:
 1. Every Nonprofit in the United States (1.5 million +) as a 4-part .ZIP file
-  2. all_nonprofits.csv.zip.001
-  3. all_nonprofits.csv.zip.002
-  4. all_nonprofits.csv.zip.003
-  5. all_nonprofits.csv.zip.004
+  * all_nonprofits.csv.zip.001
+  * all_nonprofits.csv.zip.002
+  * all_nonprofits.csv.zip.003
+  * all_nonprofits.csv.zip.004
 2. NTEE codes and definitions
-  3. ntee_codes.csv 
+  * ntee_codes.csv 
 
 ### How to get the data:
  1. Download this repository by clicking "Clone or Download" on the right side
