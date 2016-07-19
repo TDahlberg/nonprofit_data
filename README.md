@@ -7,7 +7,7 @@ This repository contains two sets of files:
   * all_nonprofits.csv.zip.002
   * all_nonprofits.csv.zip.003
   * all_nonprofits.csv.zip.004
-* NTEE codes and definitions
+* NTEE codes and definitions 
   * ntee_codes.csv 
 
 ### How to get the data:
