@@ -2,6 +2,7 @@
 
 # NTEE Codes
 List of Nonprofits downloaded from [https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf)
+
 Codes downloaded from [http://nccs.urban.org/classification/ntee.cfm](http://nccs.urban.org/classification/ntee.cfm)
 
 This repository contains two sets of files:
