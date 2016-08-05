@@ -1,6 +1,8 @@
 # WIKI --> https://github.com/TDahlberg/nonprofit_data/wiki
+
 # NTEE Codes
-Downloaded from [http://nccs.urban.org/classification/ntee.cfm](http://nccs.urban.org/classification/ntee.cfm)
+List of Nonprofits downloaded from [https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf)
+Codes downloaded from [http://nccs.urban.org/classification/ntee.cfm](http://nccs.urban.org/classification/ntee.cfm)
 
 This repository contains two sets of files:
 * Every Nonprofit in the United States (1.5 million +) as a 4-part .ZIP file
