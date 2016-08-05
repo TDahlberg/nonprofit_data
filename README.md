@@ -1,10 +1,13 @@
-# WIKI --> https://github.com/TDahlberg/nonprofit_data/wiki
+## WIKI --> https://github.com/TDahlberg/nonprofit_data/wiki
 
-# NTEE Codes
-List of Nonprofits downloaded from [https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf)
+This repository contains a dataset that when unzipped, contains every single IRS registered nonprofit (~1.5 million) in the united states. Why might you want to use this file for analysis over the IRS version? It's geocoded, so almost every single one of the 1.5 million or so records has a latitude / longitude for mapping. Descriptive NTEE codes were also added in, so users wouldn't need to cross reference the NTEE codes with a metadata document.
 
-Codes downloaded from [http://nccs.urban.org/classification/ntee.cfm](http://nccs.urban.org/classification/ntee.cfm)
+# Sources
+List of nonprofits downloaded from [https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf)
 
+NTEE codes downloaded from [http://nccs.urban.org/classification/ntee.cfm](http://nccs.urban.org/classification/ntee.cfm)
+
+# File Contents:
 This repository contains two sets of files:
 * Every Nonprofit in the United States (1.5 million +) as a 4-part .ZIP file
   * all_nonprofits.csv.zip.001
