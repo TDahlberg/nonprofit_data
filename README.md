@@ -25,7 +25,7 @@ This repository contains two sets of files:
 
 
 ### Data processing:
-* Geocoded and added latitude / longitude [Mapadelphia](https://www.twitter.com/mapadelphia)
+* Geocoded and added latitude / longitude ([Mapadelphia](https://www.twitter.com/mapadelphia))
 * Merged shapefiles ([Mapadelphia](www.twitter.com/mapadelphia))
 * Output to CSV
 * Cleaned NTEE codes into a CSV
