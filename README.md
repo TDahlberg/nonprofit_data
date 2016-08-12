@@ -24,11 +24,13 @@ This repository contains two sets of files:
  3. Voila, the 300mb+ CSV includes every single nonprofit in the US. Refer to the [Wiki](https://github.com/TDahlberg/nonprofit_data/wiki) for field definitions and metadata. 
 
 
-### Steps taken:
- * Added new category field.
- * Removed category header. 
- * Converted to CSV.
- * Geocoded and added latitude / longitude
-
+### Data processing:
+* Geocoded and added latitude / longitude ([Mapadelphia](www.twitter.com/mapadelphia))
+* Merged shapefiles ([Mapadelphia](www.twitter.com/mapadelphia))
+* Output to CSV
+* Cleaned NTEE codes into a CSV
+* Joined NTEE codes, more detailed descriptions to nonprofit list
+* Removed category header.
+ 
 ### Working with the data:
-I recommend using Python + Pandas, R, or SQL, as the final 300mb+ file is much too large for standard spreadsheet software. Maybe start with [this Python notebook](https://gist.github.com/TDahlberg/b6b595c6d5d23036e07907dc9184d486)?
+I recommend using Python + Pandas, R, or SQL, as the final 300mb+ file is much too large for standard spreadsheet software. Maybe start with [this Python notebook](https://gist.github.com/TDahlberg/b6b595c6d5d23036e07907dc9184d486) for ideas?
