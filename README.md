@@ -34,3 +34,7 @@ This repository contains two sets of files:
  
 ### Working with the data:
 I recommend using Python + Pandas, R, or SQL, as the final 300mb+ file is much too large for standard spreadsheet software. Maybe start with [this Python notebook](https://gist.github.com/TDahlberg/b6b595c6d5d23036e07907dc9184d486) for ideas?
+
+
+### Where to get Anaconda for analysis:
+https://www.continuum.io/downloads
